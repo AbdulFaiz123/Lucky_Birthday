@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: #1F2937;
+    color: #6EE787;
+}
+
+
+
+.container{
+    display:flex;
+    flex-direction: column;
+    font-style: italic;
+    text-align:center;
+    margin: auto;
+}
+
+/* 
+label{
+    padding-bottom: 1rem;
+    text-align: center;
+/* } */
+input{
+    width: 20%;
+    margin-bottom: 1%;
+    
+   
+}
+label,input{
+    display: block;
+    margin: auto;
+    margin-top: 0.5rem;
+    
+    
+} 
+
+
+/* #output-box{
+    display: block;
+    
+    
+} */
+
+
+
+#check-number{
+    display: block;
+    margin: auto;
+    
+    margin-top: 1rem;
+   
+  
+}
+
